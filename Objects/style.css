@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containe {
+    background-color: teal;
+    padding: 15px;
+}
+
+.age,
+.name {
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.bta {
+    padding: 10px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#table {
+    width: 80%;
+    margin: 0 auto;
+}
